@@ -1,6 +1,6 @@
 # Date: 06/11/2023
-# Author: Silvan Hofer
-# Purpose: Data prep for Group project
+# Author: Juan Felipe Herrera
+# Purpose: Data prep
 # Please note: Due to the data size, the raw data was loaded from the desktop
 # and not from the cloud. The data was downloaded from: 
 # https://www.nber.org/research/data/mortality-data-vital-statistics-nchs-multiple-cause-death-data

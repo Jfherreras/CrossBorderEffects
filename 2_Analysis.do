@@ -3,7 +3,7 @@
 
 * This version: November 24, 2023
 
-* Authors: Biasiucci, Giovanni - Geraldo-Correa, Gabriel - Herrera-Sarmiento, Juan Felipe - Hofer, Silvan Michael & Olivetta Mariasole
+* Author: Herrera-Sarmiento, Juan Felipe
 
 ***************************************************************************
 * This file runs the analysis section (regressions, plots, output, etc.)

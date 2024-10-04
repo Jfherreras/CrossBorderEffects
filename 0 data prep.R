@@ -1,6 +1,6 @@
 # Date: 06/11/2023
-# Author: Silvan Hofer
-# Purpose: Data prep for Group project
+# Author: Juan Felipe Herrera
+# Purpose: Data prep
 rm(list = ls())
 setwd("../") #set the working environment to "2023_FSS_Group_Project"
 source("2023_FSS_Group_Project_Colombia/terms_and_definitions.R") #load in common terms and defintions    

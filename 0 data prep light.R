@@ -1,5 +1,5 @@
 # Purpose: Download and prepare nightlight data in Colombia for analysis. 
-# Author: Silvan Hofer
+# Author: Juan Felipe Herrera
 # Date: 17.11.2023
 
 # Please note: The original files are availabe under https://eogdata.mines.edu/nighttime_light/
